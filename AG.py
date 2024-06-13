@@ -469,10 +469,10 @@ def Evaluacion_individuos(poblacion):
                 
             
                 #Coeficientes ponderación de la función de evaluación 
-                A=2
-                B=2
-                C=8
-                D=8
+                A=5
+                B=5
+                C=5
+                D=5
                 epsilon=0.01
                 
                 #Normaliza las variables obtenidas
