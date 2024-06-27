@@ -25,14 +25,19 @@ Para utilizar estos archivos, es necesario clonar el repositorio y asegurarse de
 
 ## Instalación
 
+### Opción 1: Clonar el Repositorio
+
 1. Clonar el repositorio en una máquina local:
     ```bash
     git clone https://github.com/pabloramsj/AG-Optimizacion-motores-HCCI-bi-combustibles.git
     cd AG-Optimizacion-motores-HCCI-bi-combustibles
     ```
 
-2. Asegurarse de tener instalado Cantera. Puede instalarse siguiendo las instrucciones en la [documentación oficial de Cantera](https://cantera.org/install/index.html)
+### Opción 2: Descargar los Archivos
 
+1. Descargar los archivos del repositorio desde [este enlace](https://github.com/pabloramsj/AG-Optimizacion-motores-HCCI-bi-combustibles/archive/refs/heads/main.zip) y extraerlos en una carpeta local.
+
+En cualquiera de los casos es necesario asegurarse de tener instalado Cantera. Puede instalarse siguiendo las instrucciones en la [documentación oficial de Cantera](https://cantera.org/install.html).
 ## Uso
 
 ### Ejecución del Algoritmo Genético
