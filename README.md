@@ -1,6 +1,6 @@
 # Optimización de Motores HCCI Bi-Combustibles mediante Algoritmos Genéticos
 
-Este repositorio contiene el código fuente y los archivos necesarios para la optimización de motores HCCI utilizando algoritmos genéticos. El objetivo principal de este proyecto es mejorar la eficiencia y el trabajo neto producido, así como reducir las emisiones de los motores HCCI mediante el ajuste de diversos parámetros operativos usando técnicas de optimización inspiradas en la evolución natural.
+Este repositorio contiene el código fuente y los archivos necesarios para la optimización de motores HCCI utilizando algoritmos genéticos, así como archivos para el análisis de los resultados obtenidos. El objetivo principal de este proyecto es mejorar la eficiencia y el trabajo neto producido, así como reducir las emisiones de los motores HCCI mediante el ajuste de diversos parámetros operativos usando técnicas de optimización inspiradas en la evolución natural.
 
 ## Contenido del Repositorio
 
